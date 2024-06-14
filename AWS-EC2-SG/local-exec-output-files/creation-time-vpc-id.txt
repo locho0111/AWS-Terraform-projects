@@ -1,0 +1,5 @@
+VPC created on Fri Jun 14 13:10:20 CDT 2024 and VPC ID: vpc-0c22fbd63c2230057
+VPC created on Fri Jun 14 13:15:19 CDT 2024 and VPC ID: vpc-0c22fbd63c2230057
+VPC created on Fri Jun 14 13:21:40 CDT 2024 and VPC ID: vpc-0c22fbd63c2230057
+VPC destroyed on Fri Jun 14 13:21:40 CDT 2024 and VPC ID: vpc-0c22fbd63c2230057
+VPC created on Fri Jun 14 13:43:27 CDT 2024 and VPC ID: vpc-0c22fbd63c2230057
